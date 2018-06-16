@@ -6,6 +6,8 @@ import Post from './Post';
 import Categories from './Categories';
 import './App.css';
 
+//test comment
+
 class App extends Component {
   render() {
     return (
